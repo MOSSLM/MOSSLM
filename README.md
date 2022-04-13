@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOS</h1>
-<h3 align="center">A passionate frontend (going fullstack :muscle: ) developer from France. Always trying, testing, and building stuff :)</h3>
+<h3 align="center">A passionate frontend (going fullstack :muscle: ) developer from France.<br/>Always trying, testing, and building stuff :)</h3>
 
 - 🔭 I’m currently working on **A dev resources Website and API**
 
